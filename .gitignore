@@ -2,9 +2,11 @@
 .vs/
 Results
 build
+Figures
 
 # Files
 fkModel.exe
 FentonKarmaModel.vcxproj
 FentonKarmaModel.vcxproj.filters
+
 FentonKarmaModel.vcxproj.user
